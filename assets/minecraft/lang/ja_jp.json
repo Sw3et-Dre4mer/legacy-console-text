@@ -1325,7 +1325,7 @@
 	"death.attack.onFire": "%1$sは火によって力尽きた",
 	"death.attack.onFire.player": "%1$sは%2$sと戦って黒こげに焼かれた",
 	"death.attack.outOfWorld": "%1$sは世界の外へ落ちた",
-	"death.attack.player": "%1$sは%2$に倒された",
+	"death.attack.player": "%1$sは%2$sに倒された",
 	"death.attack.player.item": "%1$sは%2$sに%3$sで命を奪われた",
 	"death.attack.starve": "%1$sは飢えて力尽きた",
 	"death.attack.thorns": "%1$sは%2$sを襲おうとして倒された",
