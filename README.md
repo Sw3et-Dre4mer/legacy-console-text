@@ -8,14 +8,13 @@ Legacy Console Text (LCT) は、Java Edition の各テキストを Legacy Consol
 - スケルトン -> ガイコツ
 - ダメージ軽減 -> 防護
 
-⚠️ **このパックは Minecraft 1.17 以降のバージョン向けに作成されています** ⚠️
+> [!NOTE]
+> このパックは Minecraft 1.17 以降のバージョン向けに作成されているため、1.16以前のバージョンではうまく動作しない可能性があります。
 
 ## スクリーンショット
 
-⚠️ 以下のスクリーンショットは、スナップショット 23w07a にて撮影したものです ⚠️
+![エンドストーンの名前を変更した例](https://github.com/Sw3et-Dre4mer/legacy-console-text/blob/main/screenshots/image_block_end_stone.png?raw=true)
 
-![変更後のエンドストーン](https://github.com/Sw3et-Dre4mer/legacy-console-text/blob/main/screenshots/image_block_end_stone.png?raw=true)
+![ドロップ増加の名前を変更した例](https://github.com/Sw3et-Dre4mer/legacy-console-text/blob/main/screenshots/image_enchant_looting.png?raw=true)
 
-![変更後のドロップ増加](https://github.com/Sw3et-Dre4mer/legacy-console-text/blob/main/screenshots/image_enchant_looting.png?raw=true)
-
-![変更後のスケルトンのスポーンエッグ](https://github.com/Sw3et-Dre4mer/legacy-console-text/blob/main/screenshots/image_spawn_egg_skeleton.png?raw=true)
+![スケルトンのスポーンエッグの名前を変更した例](https://github.com/Sw3et-Dre4mer/legacy-console-text/blob/main/screenshots/image_spawn_egg_skeleton.png?raw=true)
